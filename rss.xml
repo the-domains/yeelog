@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[yeelog]]></title>
+        <description><![CDATA[yeelog]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 18 Aug 2016 02:25:20 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[City Guide Spotlight: New York City]]></title>
+            <description><![CDATA[<article><h1>City Guide Spotlight: New York City</h1><p>A few days ahead of NYC's hectic and inspiring Armory Week, Scope and Pulse Art Fairs, we embarked upon an overhaul of our NYC City Guide. While there were some stalwarts that needed to be added, New York City's ever-evolving nature means plenty of brand new spots made the list.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/af7a9d273d9a3ad652d9db0e555c5988fb81d7ec.jpg"></article>]]></description>
+            <link>http://www.coolhunting.com/travel/city-guide-nyc-2016-march</link>
+            <guid isPermaLink="false">d7e7bc53-06a4-4d09-b517-786c3e3abcf6</guid>
+            <pubDate>Thu, 18 Aug 2016 02:25:18 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
