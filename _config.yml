@@ -2,7 +2,7 @@ name: yeelog
 favicon: null
 layout_spectrum: 0.606383
 typography_spectrum: 0.1914894
-title: hey ho let's go
+title: null
 collections:
   - index:
       path: /
