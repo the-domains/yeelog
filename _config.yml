@@ -1,40 +1,16 @@
+name: yeelog
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2f1fdd2-7118-4be9-b60b-ba4895014d79.png
+layout_spectrum: 0.71481
 typography_spectrum: 0.9419816338922828
 content_rating:
   adult: false
-color:
-  brandColors:
-    - '#FCFFF5'
-    - '#D1DBBD'
-    - '#91AA9D'
-    - '#3E606F'
-    - '#193441'
-  brandStrength: 0.28667877125553787
-  lightness: 0.724312927108258
-  saturation: 0.28357504308223724
-  rhythmicContrast: 0.9544005603529513
-opengraph:
-  image: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d1c70aa-605f-4029-b3a7-bc62e20c05a7.jpg
-  type: null
-  appId: yeelog
-layout_spectrum: 0.0738131522666663
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 author:
   email: yeelog@gmail.com
   url: ''
   name: yeelog
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c233027c-adc0-453d-963a-2517c7020c22.png
-name: yeelog
-cta:
-  domain: null
-  bucket: null
-  version: null
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2f1fdd2-7118-4be9-b60b-ba4895014d79.png
 collections:
   - index:
       path: /
@@ -49,4 +25,28 @@ collections:
       path: '/:title/'
 title: null
 description: Be Still
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d1c70aa-605f-4029-b3a7-bc62e20c05a7.jpg
+  type: null
+  appId: yeelog
+color:
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+  brandStrength: 0.28667877125553787
+  lightness: 0.724312927108258
+  saturation: 0.28357504308223724
+  rhythmicContrast: 0.9544005603529513
 purpose: []
