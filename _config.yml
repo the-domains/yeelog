@@ -1,0 +1,14 @@
+layout_spectrum: 0.30891321157105267
+typography_spectrum: 0.6170027495827526
+color:
+  brandStrength: 0.39909585984423757
+  lightness: 0.8278653980232775
+  saturation: 0.2514543703291565
+  rhythmicContrast: 0.86377790174447
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+name: yeelog
