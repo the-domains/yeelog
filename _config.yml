@@ -1,7 +1,7 @@
 name: yeelog
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2f1fdd2-7118-4be9-b60b-ba4895014d79.png
-layout_spectrum: 0.71481
+layout_spectrum: 0.86481
 typography_spectrum: 0.9419816338922828
 content_rating:
   adult: false
@@ -45,8 +45,8 @@ color:
     - '#91AA9D'
     - '#3E606F'
     - '#193441'
-  brandStrength: 0.28667877125553787
-  lightness: 0.724312927108258
+  brandStrength: 0.3125
+  lightness: 0.6875
   saturation: 0.28357504308223724
-  rhythmicContrast: 0.9544005603529513
+  rhythmicContrast: 0
 purpose: []
