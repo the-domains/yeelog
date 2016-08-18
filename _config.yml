@@ -1,7 +1,7 @@
 name: yeelog
 favicon: null
-layout_spectrum: 0.606383
-typography_spectrum: 0.1914894
+layout_spectrum: 0.0738131522666663
+typography_spectrum: 0.9419816338922828
 title: null
 collections:
   - index:
@@ -29,13 +29,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#0c0b10'
-    - '#d2d5dc'
-    - '#cc9765'
-    - '#475d62'
-  brandStrength: 0.3638298
-  lightness: 0.8278653980232775
-  saturation: 0.5
-  rhythmicContrast: 0.86377790174447
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+  brandStrength: 0.28667877125553787
+  lightness: 0.724312927108258
+  saturation: 0.28357504308223724
+  rhythmicContrast: 0.9544005603529513
 purpose: []
