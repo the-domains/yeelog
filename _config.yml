@@ -1,7 +1,19 @@
-typography_spectrum: 0.1914894
+title: hey ho let's go
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.2514543703291565
-  brandStrength: 1
+  brandStrength: 0.3638298
   lightness: 0.8278653980232775
   brandColors:
     - '#FCFFF5'
@@ -10,18 +22,6 @@ color:
     - '#3E606F'
     - '#193441'
   rhythmicContrast: 0.86377790174447
+typography_spectrum: 0.1914894
 layout_spectrum: 1
 name: yeelog
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-title: hey ho let's go
