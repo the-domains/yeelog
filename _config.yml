@@ -1,14 +1,26 @@
-layout_spectrum: 0.30891321157105267
-typography_spectrum: 0.6170027495827526
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  brandStrength: 0.39909585984423757
-  lightness: 0.8278653980232775
   saturation: 0.2514543703291565
-  rhythmicContrast: 0.86377790174447
+  brandStrength: 1
+  lightness: 0.8278653980232775
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+  rhythmicContrast: 0.86377790174447
+typography_spectrum: 0.1914894
+layout_spectrum: 1
 name: yeelog
