@@ -1,8 +1,38 @@
-name: yeelog
-favicon: null
-layout_spectrum: 0.0738131522666663
 typography_spectrum: 0.9419816338922828
-title: null
+content_rating:
+  adult: false
+color:
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+  brandStrength: 0.28667877125553787
+  lightness: 0.724312927108258
+  saturation: 0.28357504308223724
+  rhythmicContrast: 0.9544005603529513
+opengraph:
+  image: null
+  type: null
+  appId: yeelog
+layout_spectrum: 0.0738131522666663
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  email: yeelog@gmail.com
+  url: www.yeelog.com
+  name: yeelog
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c233027c-adc0-453d-963a-2517c7020c22.png
+name: yeelog
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 collections:
   - index:
       path: /
@@ -15,27 +45,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#FCFFF5'
-    - '#D1DBBD'
-    - '#91AA9D'
-    - '#3E606F'
-    - '#193441'
-  brandStrength: 0.28667877125553787
-  lightness: 0.724312927108258
-  saturation: 0.28357504308223724
-  rhythmicContrast: 0.9544005603529513
+title: null
 purpose: []
