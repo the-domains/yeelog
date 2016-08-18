@@ -13,7 +13,8 @@ color:
   saturation: 0.28357504308223724
   rhythmicContrast: 0.9544005603529513
 opengraph:
-  image: null
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d1c70aa-605f-4029-b3a7-bc62e20c05a7.jpg
   type: null
   appId: yeelog
 layout_spectrum: 0.0738131522666663
@@ -32,7 +33,8 @@ cta:
   domain: null
   bucket: null
   version: null
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2f1fdd2-7118-4be9-b60b-ba4895014d79.png
 collections:
   - index:
       path: /
