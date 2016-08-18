@@ -1,3 +1,17 @@
+typography_spectrum: 0.1914894
+color:
+  saturation: 0.2514543703291565
+  brandStrength: 1
+  lightness: 0.8278653980232775
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+  rhythmicContrast: 0.86377790174447
+layout_spectrum: 1
+name: yeelog
 collections:
   - index:
       path: /
@@ -10,17 +24,4 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.2514543703291565
-  brandStrength: 1
-  lightness: 0.8278653980232775
-  brandColors:
-    - '#FCFFF5'
-    - '#D1DBBD'
-    - '#91AA9D'
-    - '#3E606F'
-    - '#193441'
-  rhythmicContrast: 0.86377790174447
-typography_spectrum: 0.1914894
-layout_spectrum: 1
-name: yeelog
+title: hey ho let's go
