@@ -46,4 +46,5 @@ collections:
     permalink:
       path: '/:title/'
 title: null
+description: Be Still
 purpose: []
