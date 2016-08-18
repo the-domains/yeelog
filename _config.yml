@@ -1,3 +1,7 @@
+name: yeelog
+favicon: null
+layout_spectrum: 0.606383
+typography_spectrum: 0.1914894
 title: hey ho let's go
 collections:
   - index:
@@ -11,17 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.2514543703291565
+  brandColors:
+    - '#ffffff'
+    - '#0c0b10'
+    - '#d2d5dc'
+    - '#cc9765'
+    - '#475d62'
   brandStrength: 0.3638298
   lightness: 0.8278653980232775
-  brandColors:
-    - '#FCFFF5'
-    - '#D1DBBD'
-    - '#91AA9D'
-    - '#3E606F'
-    - '#193441'
+  saturation: 0.5
   rhythmicContrast: 0.86377790174447
-typography_spectrum: 0.1914894
-layout_spectrum: 0.606383
-name: yeelog
+purpose: []
