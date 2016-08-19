@@ -51,6 +51,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: '123'
+title: ''
 description: Be Still
 purpose: []
