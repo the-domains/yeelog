@@ -1,5 +1,6 @@
-layout_spectrum: 0.86481
 typography_spectrum: 0.026798838516697288
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#FCFFF5'
@@ -11,13 +12,12 @@ color:
   lightness: 0.6875
   saturation: 0.28357504308223724
   rhythmicContrast: 0
-content_rating:
-  adult: false
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d1c70aa-605f-4029-b3a7-bc62e20c05a7.jpg
   type: null
   appId: yeelog
+layout_spectrum: 0.86481
 analytics:
   google: null
   facebook: null
@@ -51,6 +51,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: null
+title: '123'
 description: Be Still
 purpose: []
