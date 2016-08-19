@@ -52,5 +52,5 @@ collections:
     permalink:
       path: '/:title/'
 title: ''
-description: Be Still
+description: ''
 purpose: []
