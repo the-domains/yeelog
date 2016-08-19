@@ -27,7 +27,7 @@ author:
   url: ''
   name: yeelog
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c233027c-adc0-453d-963a-2517c7020c22.png
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c13c3896-1529-4a94-a86c-378c767d16e5.png
 name: yeelog
 cta:
   domain: null
@@ -38,7 +38,7 @@ navigation:
     url: 'http://www.yeelog.com'
     type: external
 favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2f1fdd2-7118-4be9-b60b-ba4895014d79.png
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f01f1894-4ae8-4927-94f3-bc6c87587a58.png
 collections:
   - index:
       path: /
