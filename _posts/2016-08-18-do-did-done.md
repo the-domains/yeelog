@@ -1,20 +1,21 @@
 ---
-datePublished: '2016-08-18T07:17:09.675Z'
+datePublished: '2016-08-19T17:28:19.723Z'
+sourcePath: _posts/2016-08-18-do-did-done.md
 author: []
 via: {}
+dateModified: '2016-08-19T17:28:19.047Z'
 title: Do Did Done
 publisher:
   name: yeelog
-description: I hate flour
-dateModified: '2016-08-18T07:15:56.453Z'
+description: Le French Chocolate Tart
 starred: false
-sourcePath: _posts/2016-08-18-do-did-done.md
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-![I hate flour](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d762bc4f-b1fe-4169-b813-e3bad45c74ca.jpg)
+Le French Chocolate Tart
+![100% Butter](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d762bc4f-b1fe-4169-b813-e3bad45c74ca.jpg)
 
 >
