@@ -1,16 +1,44 @@
-name: yeelog
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2f1fdd2-7118-4be9-b60b-ba4895014d79.png
-layout_spectrum: 0.86481
 typography_spectrum: 0.9419816338922828
 content_rating:
   adult: false
+color:
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+  brandStrength: 0.3125
+  lightness: 0.6875
+  saturation: 0.28357504308223724
+  rhythmicContrast: 0
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d1c70aa-605f-4029-b3a7-bc62e20c05a7.jpg
+  type: null
+  appId: yeelog
+layout_spectrum: 0.86481
+analytics:
+  google: null
+  facebook: null
+  twitter: null
 author:
   email: yeelog@gmail.com
   url: ''
   name: yeelog
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c233027c-adc0-453d-963a-2517c7020c22.png
+name: yeelog
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: A Trip With Me
+    url: 'http://www.yeelog.com'
+    type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2f1fdd2-7118-4be9-b60b-ba4895014d79.png
 collections:
   - index:
       path: /
@@ -25,28 +53,4 @@ collections:
       path: '/:title/'
 title: null
 description: Be Still
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d1c70aa-605f-4029-b3a7-bc62e20c05a7.jpg
-  type: null
-  appId: yeelog
-color:
-  brandColors:
-    - '#FCFFF5'
-    - '#D1DBBD'
-    - '#91AA9D'
-    - '#3E606F'
-    - '#193441'
-  brandStrength: 0.3125
-  lightness: 0.6875
-  saturation: 0.28357504308223724
-  rhythmicContrast: 0
 purpose: []
